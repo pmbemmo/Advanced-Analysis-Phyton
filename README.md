@@ -16,7 +16,9 @@ The following tables are used in this analysis:
 - **Dim_activity_type** (types of activities in the game)
 - **Dim_play_mode** (available game modes)
 
-A SQL script is included in this project to initialize and populate the tables with sample data. [init_database.sql]https://github.com/pmbemmo/Databricks_DEV/blob/1851950709212c0f2c0fce1c0f5b65e40625583e/Games-Activity-Analysis/requirements/init_database.sql
+  ![data-model](https://github.com/pmbemmo/Advanced-Analysis-Phyton/blob/b5fbfb5c4004523630a1cdc298acb43f7276f2fe/Games-Activity-Analysis/requirements/data-model.png)
+
+A SQL script is included in this project to initialize and populate the tables with sample data. ![init_database.sql](https://github.com/pmbemmo/Advanced-Analysis-Phyton/blob/4353ccc25a6b9b4cebc869075d6473e5c8cde225/Games-Activity-Analysis/requirements/init_database.sql)
 
 ---
 
@@ -33,6 +35,8 @@ A SQL script is included in this project to initialize and populate the tables w
 ✅ **Player retention trends over time**  
 ✅ **Average sessions per player and per game**  
 
+![Distribution of Session Duration](https://github.com/pmbemmo/Advanced-Analysis-Phyton/blob/b5fbfb5c4004523630a1cdc298acb43f7276f2fe/Games-Activity-Analysis/requirements/Distribution%20of%20Session%20Duration.png)
+
 ---
 
 ## 2️⃣ Revenue and In-Game Purchase Optimization 💰
@@ -47,3 +51,8 @@ A SQL script is included in this project to initialize and populate the tables w
 ✅ **Spending distribution by player level**  
 ✅ **Impact of quests and events on revenue**  
 ✅ **Revenue forecast
+
+![Feature Correlation Heatmap](https://github.com/pmbemmo/Advanced-Analysis-Phyton/blob/4353ccc25a6b9b4cebc869075d6473e5c8cde225/Games-Activity-Analysis/requirements/Feature%20Correlation%20Heatmap.png)
+
+![Distribution of Excessive Playtime Sessions](https://github.com/pmbemmo/Advanced-Analysis-Phyton/blob/4353ccc25a6b9b4cebc869075d6473e5c8cde225/Games-Activity-Analysis/requirements/Distribution%20of%20Excessive%20Playtime%20Sessions.png)
+
