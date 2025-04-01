@@ -50,7 +50,7 @@ A SQL script is included in this project to initialize and populate the tables w
 ### 📊 Key KPIs
 ✅ **Spending distribution by player level**  
 ✅ **Impact of quests and events on revenue**  
-✅ **Revenue forecast
+✅ **Revenue forecast**
 
 ![Feature Correlation Heatmap](https://github.com/pmbemmo/Advanced-Analysis-Phyton/blob/4353ccc25a6b9b4cebc869075d6473e5c8cde225/Games-Activity-Analysis/requirements/Feature%20Correlation%20Heatmap.png)
 
